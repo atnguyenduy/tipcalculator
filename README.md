@@ -1,1 +1,2 @@
 # tipcalculator
+<H2> TIP CALCULATOR USING HTML/CSS/JAVASCRIPT </H2>
